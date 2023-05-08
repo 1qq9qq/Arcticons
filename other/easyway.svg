@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" fill="none" stroke="#fff" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style><![CDATA[.B{stroke-linejoin:round}.C{stroke-miterlimit:5.2}.D{stroke-linecap:round}]]></style>
+ <g class="B C D">
+  <path d="M20.278 17.3H25"/>
+  <path d="M27.52 24.543h-7.242V10.058h7.243"/>
+ </g>
+ <path class="B C" d="m40.5 5.5h-33a2 2 0 0 0-2 2v33a2 2 0 0 0 2 2h33a2 2 0 0 0 2-2v-33a2 2 0 0 0-2-2z"/>
+ <g class="D B C">
+  <path d="m18.65 30-1.65 5.3-1.65-5.3-1.65 5.3-1.65-5.3m14.125 3.3a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-1.3a2 2 0 0 1 2-2 2 2 0 0 1 2 2"/>
+  <path d="m26.175 35.3v-5.3m8.825 3.3v2.7a2 2 0 0 1-2 2c-0.552 0-1.052-0.224-1.414-0.586"/>
+  <path d="m35 30v3.3a2 2 0 1 1-4 0v-3.3"/>
+ </g>
+</svg>
